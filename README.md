@@ -18,6 +18,8 @@ pip3 install python-rainwave-client typer
 ```
 
 ## Usage
+You need to create a `.id` and `.key` file with your API information from https://rainwave.cc/keys/
+
 ```
 bash main.sh {station}
 ```
