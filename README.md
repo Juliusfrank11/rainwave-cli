@@ -16,3 +16,14 @@ Ubuntu:
 sudo apt install mpv python3
 pip3 install python-rainwave-client typer
 ```
+
+## Usage
+```
+bash main.sh {station}
+```
+
+`station` is one of `all|games|ocremix|covers|chiptune`.
+
+You can use the standard `mpv` controls of `9` and `0` to adjust the volume.
+
+You need to `^Z` to exist the program
