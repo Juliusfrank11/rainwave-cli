@@ -28,4 +28,4 @@ bash main.sh {station}
 
 You can use the standard `mpv` controls of `9` and `0` to adjust the volume.
 
-You need to `^Z` to exist the program
+You need to `^Z` to exit the program
