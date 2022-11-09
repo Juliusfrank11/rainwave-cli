@@ -1,5 +1,5 @@
 # rainwave-cli
-A (very primative) command line program for [rainwave](rainwave.cc)
+A (very primative) command line program for the Video Game Music radio station [rainwave](https://rainwave.cc/all/) 
 
 Essentially this only displays the current song info for a rainwave station in terminal and plays that station via `mpv`. Not planning on adding more features right now as I never really used the voting feature that much on rainwave
 
